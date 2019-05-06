@@ -1,1 +1,1 @@
-include ':app', ':moleculeui', ':moleculeapi', ':moleculexrouter', ':specificationselector'
+include ':app', ':moleculeui', ':moleculeapi', ':moleculexrouter', ':specificationselector', ':logger'
