@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">titlebar</string>
+    <string name="titlebar_search_hint">Search</string>
+</resources>
