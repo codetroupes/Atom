@@ -12,3 +12,6 @@ https://github.com/Wongxd/skuLib
 
 加入titlebar
 https://github.com/wuhenzhizao/android-titlebar
+
+加入viabus 
+https://github.com/KunMinX/android-viabus-architecture
